@@ -1,0 +1,2 @@
+language = "undefined"
+run = "echo \"welcome to this snippet. Read the README.md and use the makefile!\""
